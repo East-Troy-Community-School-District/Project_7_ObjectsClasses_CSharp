@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\ChatBot\bin\Debug\ChatBot.exe.config
+\\et-fileserver\staff\pawnol\Desktop\ChatBot\bin\Debug\ChatBot.exe
+\\et-fileserver\staff\pawnol\Desktop\ChatBot\bin\Debug\ChatBot.pdb
+\\et-fileserver\staff\pawnol\Desktop\ChatBot\obj\Debug\ChatBot.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\ChatBot\obj\Debug\ChatBot.exe
+\\et-fileserver\staff\pawnol\Desktop\ChatBot\obj\Debug\ChatBot.pdb

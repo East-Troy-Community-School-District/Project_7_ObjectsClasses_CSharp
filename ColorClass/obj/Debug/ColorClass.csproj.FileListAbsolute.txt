@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\ColorClass\bin\Debug\ColorClass.exe.config
+\\et-fileserver\staff\pawnol\Desktop\ColorClass\bin\Debug\ColorClass.exe
+\\et-fileserver\staff\pawnol\Desktop\ColorClass\bin\Debug\ColorClass.pdb
+\\et-fileserver\staff\pawnol\Desktop\ColorClass\obj\Debug\ColorClass.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\ColorClass\obj\Debug\ColorClass.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\ColorClass\obj\Debug\ColorClass.exe
+\\et-fileserver\staff\pawnol\Desktop\ColorClass\obj\Debug\ColorClass.pdb
